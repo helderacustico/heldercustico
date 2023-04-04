@@ -1,0 +1,14 @@
+{
+  "name": "meu_teste",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Helder Sores",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^12.9.0"
+  }
+}
